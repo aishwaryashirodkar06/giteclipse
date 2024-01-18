@@ -20,5 +20,8 @@ public class addtwonum {
 	        System.out.println("Sum is " + result);
 
 	}
+	 public static double subver(double a, double b) {
+	        return a - b;
 
+}
 }
